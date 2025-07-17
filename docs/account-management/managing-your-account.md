@@ -1,4 +1,4 @@
-# Vaultwarden
+# Managing your account
 
 Vaultwarden, an open-source modification of the [Bitwarden](https://bitwarden.com) password manager, is an encrypted password manager that can securely store passwords, notes, identities and more.
 
@@ -8,7 +8,7 @@ Link: [`https://passwords.ha.doghousebrewing.net`](https://passwords.ha.doghouse
 
 ## Creating your account
 
-When you [create your Doghouse account](/creating-your-account/), you will receive an invite to create a Vaultwarden account.
+When you [create your Doghouse account](/docs/creating-your-account.md), you will receive an invite to create a Vaultwarden account.
 
 Accepting the invite is as easy as clicking the **Join Organization Now** button in the email you would have been sent. The invite does not expire, but it can only be used to create one account.
 
