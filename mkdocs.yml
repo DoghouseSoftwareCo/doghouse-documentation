@@ -2,7 +2,14 @@ site_name: The Doghouse
 site_url: http://localhost:8000
 theme:
   name: material
+  features:
+    - navigation.top
 extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/book
+      link: https://squidfunk.github.io/mkdocs-material/
+      name: Built with MkDocs Material
   consent:
     title: Cookie consent
     description: >- 
@@ -14,3 +21,23 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+copyright: >
+  Copyright &copy; 2025 Doghouse Software –
+  <a href="#__consent">Change cookie settings</a>
+nav:
+  - Home: media/jellyfin.md
+  - Creating your account: account-management/creating-your-account.md
+  - Media:
+      - Jellyfin: media/jellyfin.md
+      - Jellyseerr: media/jellyseerr.md
+  - Personal assets:
+      - Vaultwarden: personal-assets/vaultwarden.md
+      - Immich: personal-assets/immich.md
+      - Nextcloud: personal-assets/nextcloud.md
+  - Managing your account:
+      - Your account settings: account-management/managing-your-account.md
+      - Deleting your account: account-management/deleting-your-account.md
+      - Access tiers: account-management/access-tiers.md
+  - Support:
+      - Contact an administrator: support/contact-an-administrator.md
+      - Frequently asked questions: support/frequently-asked-questions.md

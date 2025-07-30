@@ -1,8 +1,8 @@
 # Frequently asked questions
 
-#### Are the Doghouse apps free to use?
+#### Are the Doghouse apps free?
 
-Absolutely. Only the paid access tiers, Mid and God, require payment to activate and use.
+Absolutely. Only the paid [access tiers](/account-management/access-tiers), Mid and God, require payment to activate and use.
 
 #### What will the access tier proceeds go towards?
 

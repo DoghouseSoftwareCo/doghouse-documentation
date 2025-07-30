@@ -1,6 +1,6 @@
 # Vaultwarden
 
-Vaultwarden, an open-source modification of the [Bitwarden](https://bitwarden.com) password manager, is an encrypted password manager that can securely store passwords, notes, identities and more.
+Vaultwarden, an open-source modification of the [Bitwarden](https://bitwarden.com) password manager, is an encrypted password manager that can securely store passwords, notes, identities and more. Due to its secure nature, you can rest assured that **only you** will be able to see your items, not even Doghouse administrators.
 
 This page will show you how to use Vaultwarden, including setting up your account, adding your first password and exploring the user interface.
 
@@ -84,6 +84,13 @@ Enter the email address you used to create your account and click Continue.
 Enter your master password and click **Log in with master password**. If you have a device already signed in, click **Log in with device** to use that to log in.\
 
 ### Browser extension
+
+The Vaultwarden browser extension is available for all the major browsers, like Google Chrome and Mozilla Firefox.
+
+You can download the extension from your browser's extension store by clicking the buttons below:
+
+<a href="https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb?pli=1"><img src="/assets/google-ext-ad.png"></img></a><br>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?browser=firefox"><img src="/assets/firefox-ext-ad.png"></img></a>
 
 ## Exploring the user interface
 
